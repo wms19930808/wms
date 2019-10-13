@@ -1,2 +1,0 @@
-wms mtn wms
-hadoop spark
